@@ -1,0 +1,67 @@
+body{
+font-family: 'Ubuntu',
+sans-serif;
+}
+p{
+    margin-top: 10px;
+    text-align: justify;
+}
+h1
+{
+    FOnt-family: 'Sunflower', sans-serif;
+   font-size: 18px;
+   margin-top: 20px;
+}
+h4
+{
+    margin-top:20px;
+}
+.fab
+{
+        font-size: 35px;
+}
+* {
+    box-sizing: border-box;
+    /* para leer sobre como funciona box sizing https://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.row:before,
+.row:after {
+    content: " ";
+    display: table;
+}
+
+.row {
+    clear: both;
+}
+    
+.col-2 {
+    width: 16.666666667%;
+    min-height: 7px;
+    padding: 15px;
+    float: left;
+    background-color:#f4f4f4;
+    margin: 5px;
+    text-align: center;
+    color: #5f5c5c;
+}
+.col-2:hover {
+    background-color: #ffffff;
+    color: #626a92;
+}
+
+
+
+@media all and (max-width: 700px) {
+    .col-2 {
+        width: 100%
+    }
+}

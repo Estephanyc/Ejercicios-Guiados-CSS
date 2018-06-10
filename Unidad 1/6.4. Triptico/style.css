@@ -1,0 +1,42 @@
+.box
+{
+    border: 1px solid gray;
+    float: left;
+    width: 33%;
+    height: 500px;
+    background: #fff;
+}
+.title
+{
+    width: 100%;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background:#fab02a;
+    
+}
+.container
+{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    overflow: auto;
+    border: 1px solid gray;
+}
+p
+{padding: 10px}
+
+h4
+{text-align: center}
+
+h1
+{
+    font-size: 16px;
+}
+img
+{
+   padding-left: 40px;
+   width: 65%;
+}
