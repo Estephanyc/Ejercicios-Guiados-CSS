@@ -1,8 +1,8 @@
-#Ejercicios guiados CSS
+# Ejercicios guiados CSS
 
-##Unidad 1
+## Unidad 1
 
-###Indice
+### Indice
  
 [3.Banderas-Display](https://estephanyc.github.io/Ejercicios-Guiados-CSS/Unidad%201/3.e.l-Banderas-display/index.html).
 
